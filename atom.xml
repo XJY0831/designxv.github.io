@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://designxv.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-03-23T05:50:21.747Z</updated>
+    <title>急急急卡卡</title>
+    <updated>2020-03-23T05:51:49.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://designxv.github.io"/>
     <link rel="self" href="https://designxv.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://designxv.github.io/images/avatar.png</logo>
     <icon>https://designxv.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, 急急急卡卡</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://designxv.github.io/post/hello-gridea/</id>
